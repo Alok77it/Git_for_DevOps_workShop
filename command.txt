@@ -35,6 +35,121 @@
   121  cd Downloads/
   122  sudo su
   123  cd Downloads/
+
+
+
+
+   25  /home/nobroker/Downloads/visual/jarvis_env/bin/python /home/nobroker/Downloads/visual/jarvis_env/transcribe_audio.py
+   26  clear
+   27  cd "/home/nobroker/Downloads/visual/jarvis_env/lib/python3.8/site-packages/speech_recognition/__init__.py", line 110
+   28  cd "/home/nobroker/Downloads/visual/jarvis_env/lib/python3.8/site-packages/speech_recognition/
+   29  ls
+   30  exit
+   31  cd "/home/nobroker/Downloads/visual/jarvis_env/lib/python3.8/site-packages/speech_recognition
+   32  exit
+   33  cd /home/nobroker/Downloads/visual/jarvis_env/lib/python3.8/site-packages/speech_recognition
+   34  ls
+   35  cat audio.py 
+   36  clear
+   37  ls
+   38  cat __main__.py 
+   39  clear
+   40  /home/nobroker/Downloads/visual/jarvis_env/bin/python /home/nobroker/Downloads/visual/jarvis_env/lib/python3.8/site-packages/speech_recognition/__main__.py
+   41  pip install PyAudio
+   42  sudo su
+   43  /bin/python3 /home/nobroker/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/nobroker/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt
+   44  python3 -m venv jarvis_env
+   45  clear
+   46  python3 -m venv jarvis_env
+   47  sudo su
+   48  cd Downloads/
+   49  cd Project
+   50  ls
+   51  cd vibestream/
+   52  sudo su
+   53  ifconfig
+   54  sudo su
+   55  ip a
+   56  cd practice/
+   57  l
+   58  clear
+   59  javac practice.java 
+   60  sudo su
+   61  javac practice.java 
+   62  sudo su
+   63  javac practice.java 
+   64  javac practice
+   65  javac practice.java 
+   66  clear
+   67  javac AddThreeNumbers.java 
+   68  javac AddThreeNumbers
+   69  clear
+   70  javac AddThreeNumbers.java 
+   71  ping 192.168.64.79
+   72  /bin/python3 /home/nobroker/Downloads/Project/practice/practice.py
+   73  sudo sy
+   74  sudo su
+   75  /bin/python3 /home/nobroker/Downloads/Project/practice/practice.py
+   76  /usr/bin/python3 /home/nobroker/Downloads/Project/practice/practice.py
+   77  ping 192.168.66.78
+   78  ping 192.168.65.191
+   79  ssh server@192.168.1.121
+   80  ping 192.168.66.177
+   81  sudo su
+   82  ssh server@192.168.1.121
+   83  ping 192.168.32.199
+   84  ssh 192.168.32.199
+   85  ssh nobroker@192.168.20.78
+   86  cd Downloads/
+   87  sudo su
+   88  ip a
+   89  show router status
+   90  sudo su
+   91  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   92  clear
+   93  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   94  pip3 install pandas
+   95  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   96  clear
+   97  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   98  /bin/python3 /home/nobroker/Downloads/Project/practice/backup.py
+   99  cd practice/
+  100  python3 --help
+  101  python3 -v backup.py 
+  102  sudo su
+  103  git --version
+  104  /bin/python3 /home/nobroker/Downloads/Project/DevOps_Practice/testing.py
+  105  cd DevOps_Practice/
+  106  clear
+  107  git init
+  108  ls -al
+  109  git status
+  110  git add testing.py 
+  111  git status
+  112  git rm --cached testing.py 
+  113  git status
+  114  git add testing.py 
+  115  git commit -m "Added testing"
+  116  git status
+  117  rm testing.py 
+  118  git restore testing.py
+  119  git remote add origin https://github.com/Alok77it/Git_for_DevOps_workShop.git
+  120  git push -u origin master
+  121  cd Downloads/
+  122  sudo su
+  123  cd Downloads/
+  124  sudo su
+  125  git show
+  126  git clone https://github.com/Alok77it/python-for-devops.git
+  127  git push origin master
+  128  history
+  129  git status
+  130  git init
+  131  git status
+  132  git add command.txt 
+  133  git commit -m "Adding"
+  134  git push origin master
+  135  history
   124  sudo su
   125  git show
   126  git clone https://github.com/Alok77it/python-for-devops.git
