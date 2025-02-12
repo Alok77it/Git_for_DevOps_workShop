@@ -1,0 +1,42 @@
+   87  sudo su
+   88  ip a
+   89  show router status
+   90  sudo su
+   91  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   92  clear
+   93  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   94  pip3 install pandas
+   95  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   96  clear
+   97  /bin/python3 /home/nobroker/Downloads/Project/practice/dailyreport.py
+   98  /bin/python3 /home/nobroker/Downloads/Project/practice/backup.py
+   99  cd practice/
+  100  python3 --help
+  101  python3 -v backup.py 
+  102  sudo su
+  103  git --version
+  104  /bin/python3 /home/nobroker/Downloads/Project/DevOps_Practice/testing.py
+  105  cd DevOps_Practice/
+  106  clear
+  107  git init
+  108  ls -al
+  109  git status
+  110  git add testing.py 
+  111  git status
+  112  git rm --cached testing.py 
+  113  git status
+  114  git add testing.py 
+  115  git commit -m "Added testing"
+  116  git status
+  117  rm testing.py 
+  118  git restore testing.py
+  119  git remote add origin https://github.com/Alok77it/Git_for_DevOps_workShop.git
+  120  git push -u origin master
+  121  cd Downloads/
+  122  sudo su
+  123  cd Downloads/
+  124  sudo su
+  125  git show
+  126  git clone https://github.com/Alok77it/python-for-devops.git
+  127  git push origin master
+  128  history
